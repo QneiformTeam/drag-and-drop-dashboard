@@ -1,4 +1,4 @@
-import layoutConfig from "../layoutConfig";
+import layoutConfig from "./layoutConfig";
 
 const initialState = {
   data: {

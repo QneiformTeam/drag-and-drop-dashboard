@@ -115,6 +115,11 @@ label {
   border-bottom-color: rgba(255, 255, 255, 0.5);
 }
 
+.react-grid-placeholder {
+  background: green !important;
+  opacity: 100% !important;
+}
+
 .modal-body {
   padding: 0;
 }
